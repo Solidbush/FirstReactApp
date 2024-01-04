@@ -1,0 +1,18 @@
+.Content {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    border: 3px solid blueviolet;
+}
+
+.Content img {
+    margin: auto 0 auto 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.Content p {
+    margin-left: 20px;
+    font-size: 20px;
+    color: rgb(128, 128, 128);
+}

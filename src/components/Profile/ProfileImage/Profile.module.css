@@ -1,0 +1,11 @@
+.content {
+    grid-area: content;
+}
+
+.profileImage img {
+    width: 1200px;
+    height: 300px;
+}
+
+
+
