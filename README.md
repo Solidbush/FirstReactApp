@@ -1,5 +1,7 @@
-# Getting Started with Create React App
-
+# First React App
+---
+## React! Way of samurai
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
