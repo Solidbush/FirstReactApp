@@ -1,0 +1,23 @@
+.ProfileContent{
+    display: flex;
+}
+
+.MainInfo {
+    flex-direction: column;
+}
+
+.profilePhoto img {
+    margin-top: 10px;
+    width: 141px;
+    height: 141px;
+}
+
+.name {
+    font-size: 20px;
+    color: black;
+    margin: 20px 0 0 20px;
+}
+
+.info p {
+    margin: 0 0 0 10px;
+}

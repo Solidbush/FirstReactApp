@@ -11,36 +11,6 @@
   grid-gap: 10px;
 }
 
-.header {
-  grid-area: header;
-  background-color: green;
-}
 
-.header img {
-  width: 90px;
-}
 
-.navBar {
-  grid-area: bar;
-  background-color: chartreuse;
-}
-
-.content {
-  grid-area: content;
-}
-
-.content img {
-  width: auto;
-  height: 300px;
-}
-
-.footer {
-  grid-area: footerBar;
-  background-color: rebeccapurple;
-}
-
-.footer p {
-  font-size: 20px;
-  text-align: center;
-}
 

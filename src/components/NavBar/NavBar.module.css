@@ -1,0 +1,17 @@
+.navBar {
+    grid-area: bar;
+    background-color: chartreuse;
+}
+
+.item a {
+    margin: 20px;
+    font-size: 20px;
+    color: yellow;
+    text-decoration: none;
+}
+
+.item :hover {
+    color: red;
+}
+
+

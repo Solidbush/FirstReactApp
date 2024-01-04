@@ -1,0 +1,10 @@
+.footer {
+    grid-area: footerBar;
+    background-color: rebeccapurple;
+}
+
+.footer p {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}

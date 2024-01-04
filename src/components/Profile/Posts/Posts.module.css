@@ -1,0 +1,29 @@
+.Content {
+    display: flex;
+    flex-direction: column;
+}
+
+.Content p {
+    color: black;
+    font-size: 20px;
+}
+
+.Content textarea {
+    margin: 0 10px 10px 20px;
+    width: 1170px;
+    height: 80px;
+}
+
+.Content button {
+    background-color: green;
+    color: white;
+    width: 120px;
+    height: 30px;
+    display: block;
+    margin: 0 0 0 auto;
+}
+
+.Content button:hover {
+    background-color: chartreuse;
+    cursor: pointer;
+}
